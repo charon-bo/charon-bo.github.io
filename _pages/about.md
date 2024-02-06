@@ -29,16 +29,27 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 - Embodied AI
   His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
+
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2023/06] Two papers got accepted by IEEE IROS 2023. Congrats to Shoujie and Huaze!
+
+[2023/06] Hengzi received the excellent master thesis award! Congrats!
+
+[2023/06] Shoujie received the Tsinghua Future Scholar Award for PhD student. (Only 4 out of all SIGS fresh PhD students) Congrats!
+
+[2023/05] Our work on visuo-tactile sensor for transparent object grasping has been accepted by IEEE Transactions on Robotics. Congrats to Shoujie.
+
+[2023/04] Our work on triboelectric gait sensor for human activity recognition and indentification has been accepted by Nano Energy (IF: 19.06). Congrats to Jiarong, Zixuan and Zihan.
+
+[2023/03] Zihan received the IEEE ICRA 2023 RAS Travel Grant. Congrats!
 
 
 <span class='anchor' id='-Publications'></span>
 
 # 📝 Publications
 
-### 英文
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -61,7 +72,7 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
+-	`Shilong Mu`, Shoujie Li, Hongfa Zhao, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, Wenbo Ding. A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing. *Nano Energy*. 2023, 116: 108790. (JCR:Q1; IF:17.6)  
 [[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
 
 </div>
