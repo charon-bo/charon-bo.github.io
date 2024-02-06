@@ -69,7 +69,8 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 -	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding.
 -	`ICRA` 2024, Japan, Yokohama
 -	[[网页]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
-
+</div>
+</div>
 
 
 
