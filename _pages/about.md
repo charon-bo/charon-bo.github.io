@@ -52,7 +52,7 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 # 📝 Publications
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nano-energy 2023</div><img src='images/nano-energy2023.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nano-energy 2023</div><img src='images/nano-energy2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Shilong Mu`, Shoujie Li, Hongfa Zhao, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, Wenbo Ding. A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing. *Nano Energy*, 2023, 116: 108790. (JCR:Q1; IF:17.6)  
