@@ -17,22 +17,22 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [SSR Group](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute] (https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. DING Wenbo in SSR Group.
+# 🎓 Personal profile
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [SSR Group](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute] (https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. Wenbo Ding in SSR Group.
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
+
+# 📝 Research interests
+Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
+- Tactile sensing
+- Electronic skin
+- Human-machine interface
+- Embodied AI
+His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# 🎓 Education
 - *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
 - *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
  
