@@ -55,29 +55,22 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">nano-energy 2023</div><img src='images/nano-energy2023.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Shilong Mu`, Shoujie Li, Hongfa Zhao, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, Wenbo Ding. A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing. *Nano Energy*, 2023, 116: 108790. (JCR:Q1; IF:17.6)  
-[[网页]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing
+-	`Shilong Mu*`, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, Wenbo Ding.
+-	 `Nano Energy`, 2023, 116: 108790. (JCR:Q1; IF:17.6)
+-	 [[网页]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ICRA 2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+- Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback
+-	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding.
+-	`ICRA` 2024, Japan, Yokohama
+-	[[网页]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
-</div>
-</div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
--	`Shilong Mu`, Shoujie Li, Hongfa Zhao, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee, Changsheng Wu, Wenbo Ding. A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing. *Nano Energy*. 2023, 116: 108790. (JCR:Q1; IF:17.6)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
-
-</div>
-</div>
 
 
 ### 专利
