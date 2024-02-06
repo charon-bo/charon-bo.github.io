@@ -28,7 +28,7 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 - Human-machine interface
 - Embodied AI
 
-  His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
+His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
 
 <span class='anchor' id='-News'></span>
