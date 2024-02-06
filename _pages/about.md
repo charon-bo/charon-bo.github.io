@@ -17,8 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [SSR Group](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute] (https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. DING Wenbo in SSR Group.
 
 我的研究领域包括：
 - 仪器仪表
