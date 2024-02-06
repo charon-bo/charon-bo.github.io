@@ -27,6 +27,7 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 - Electronic skin
 - Human-machine interface
 - Embodied AI
+
   His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
 
