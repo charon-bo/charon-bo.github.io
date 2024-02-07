@@ -18,15 +18,15 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Personal profile
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [SSR Group](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. Wenbo Ding in SSR Group.
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. Wenbo Ding in SSR Group.
 
 
 # 📝 Research interests
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
-- Tactile sensing
-- Electronic skin
-- Human-machine interface
-- Embodied AI
+- **Tactile sensing**
+- **Electronic skin**
+- **Human-machine interface**
+- **Embodied AI**
 
 His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
@@ -34,17 +34,21 @@ His work is driven by a passion for pioneering developments in these fields, aim
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
-[2023/06] Two papers got accepted by IEEE IROS 2023. Congrats to Shoujie and Huaze!
+[2024/01] SSR Group has four papers got accepted by ICRA 2024. Congrats to shilong, xiaosa, ziwu, and chenchang! Research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile, flexible operation!
+ 
+[2024/01] Our work on bidirectional human-robot interaction e-skin has been accepted by ICRA 2024, Japan, Yokohama.
 
-[2023/06] Hengzi received the excellent master thesis award! Congrats!
+[2023/10] Shilong obtained the internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue research on robot tactile! 
 
-[2023/06] Shoujie received the Tsinghua Future Scholar Award for PhD student. (Only 4 out of all SIGS fresh PhD students) Congrats!
+[2023/10] Shilong received the Tsinghua University second-class scholarship! 
 
-[2023/05] Our work on visuo-tactile sensor for transparent object grasping has been accepted by IEEE Transactions on Robotics. Congrats to Shoujie.
+[2023/10] Shilong participated in the 8th "Fundamental Theories and Key Technologies of Soft Robotics" Symposium in 2023. 
 
-[2023/04] Our work on triboelectric gait sensor for human activity recognition and indentification has been accepted by Nano Energy (IF: 19.06). Congrats to Jiarong, Zixuan and Zihan.
+[2023/09] Shilong participated in the 2023 Guangdong Provincial Graduate Student Academic Forum and gave an academic presentation.
 
-[2023/03] Zihan received the IEEE ICRA 2023 RAS Travel Grant. Congrats!
+[2023/09] Our work on hybrid embedded system for the continuous monitoring of bird fligh has been accepted by UbiComp 23 SESSION: CPD.
+
+[2023/08] Our work on platypus-inspired electro-mechanosensory finger for remote control and tactile sensing has been accepted by Nano Energy (IF: 19.06). 
 
 
 <span class='anchor' id='-Publications'></span>
