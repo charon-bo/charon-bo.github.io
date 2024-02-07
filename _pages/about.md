@@ -86,14 +86,13 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 | With my lover in 2023, Shenzhen | Relaxation time, Shenzhen | 
 |:---------:|:---------:|
-| ![Alt Text](images/Lover1.png) | ![Alt Text](images/ziji.png) |
+| <img src="images/Lover1.png" width="200"> | <img src="images/ziji.png" width="200"> |
 
 | China vs. South Korea football match, December 2023, Shenzhen | Robotics X Lab |
 |:---------:|:---------:|
-| ![Alt Text](images/qiusai.png) | ![Alt Text](images/RoboticX.png) |
+| <img src="images/qiusai.png" width="200"> | <img src="images/RoboticX.png" width="200"> |
 
 | SSR Group 2023, Macau | SSR Group 2022, Shenzhen |
 |:---------:|:---------:|
-| ![Alt Text](images/SSR2023.PNG) | ![Alt Text](images/SSR2022.PNG) |
-
+| <img src="images/SSR2023.PNG" width="200"> | <img src="images/SSR2022.PNG" width="200"> |
 
