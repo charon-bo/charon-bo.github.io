@@ -92,7 +92,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
 |:---------:|:---------:|
 | <img src="images/qiusai.png" width="500"> | <img src="images/RoboticX.png" width="500"> |
 
-| SSR Group 2023, Macau | SSR Group 2022, Shenzhen |
+| SSR Group 2023 annual summary meeting, Macau | SSR Group 2022 annual summary meeting,  Shenzhen |
 |:---------:|:---------:|
 | <img src="images/SSR2023.PNG" width="500"> | <img src="images/SSR2022.PNG" width="500"> |
 
