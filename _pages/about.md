@@ -84,4 +84,13 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 # 📸 Pics
 
+| Picture 1 | Picture 2 |
+|:---------:|:---------:|
+| ![Alt Text](https://example.com/image1.jpg) | ![Alt Text](https://example.com/image2.jpg) |
+| *Description 1* | *Description 2* |
+
+| Picture 3 | Picture 4 |
+|:---------:|:---------:|
+| ![Alt Text](https://example.com/image3.jpg) | ![Alt Text](https://example.com/image4.jpg) |
+| *Description 3* | *Description 4* |
 
