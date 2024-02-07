@@ -75,7 +75,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
 - Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback
 -	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding.
 -	`ICRA` 2024, Japan, Yokohama
--	[[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)[[Project page]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	[[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)[[Project page]](https://sites.google.com/view/touch-e-skin/)
 </div>
 </div>
 
@@ -84,16 +84,8 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 # 📸 Pics
 
-| With my lover in 2023, Shenzhen | Relaxation time, Shenzhen|
-|:---------:|:---------:|
-| ![Alt Text]("images/Lover1.png") | ![Alt Text]("images/ziji.png") |
-
-| China vs. South Korea football match, December 2023, Shenzhen | Robotics X Lab |
-|:---------:|:---------:|
-| ![Alt Text]("images/qiusai.png") | ![Alt Text]("images/RoboticX.png") |
-
-| SSR Group 2023, Macau |SSR Group 2022, Shenzhen |
-|:---------:|:---------:|
-| ![Alt Text]("images/SSR2023.png") | ![Alt Text]("images/SSR2022.png") |
+| With my lover in 2023, Shenzhen | Relaxation time, Shenzhen | China vs. South Korea football match, December 2023, Shenzhen | Robotics X Lab | SSR Group 2023, Macau | SSR Group 2022, Shenzhen |
+|:---------:|:---------:|:---------:|:---------:|:---------:|:---------:|
+| ![Alt Text](images/Lover1.png) | ![Alt Text](images/ziji.png) | ![Alt Text](images/qiusai.png) | ![Alt Text](images/RoboticX.png) | ![Alt Text](images/SSR2023.png) | ![Alt Text](images/SSR2022.png) |
 
 
