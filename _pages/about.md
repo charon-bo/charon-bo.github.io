@@ -82,6 +82,6 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 <span class='anchor' id='-Pics'></span>
 
-# 🏅 Pics
+# 📸 Pics
 
 
