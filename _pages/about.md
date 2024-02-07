@@ -84,13 +84,16 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 # 📸 Pics
 
-| Picture 1 | Picture 2 |
+| With my lover in 2023, Shenzhen | Relaxation time, Shenzhen|
 |:---------:|:---------:|
-| ![Alt Text](https://example.com/image1.jpg) | ![Alt Text](https://example.com/image2.jpg) |
-| *Description 1* | *Description 2* |
+| ![Alt Text]("images/Lover1.png") | ![Alt Text]("images/ziji.png") |
 
-| Picture 3 | Picture 4 |
+| China vs. South Korea football match, December 2023, Shenzhen | Robotics X Lab |
 |:---------:|:---------:|
-| ![Alt Text](https://example.com/image3.jpg) | ![Alt Text](https://example.com/image4.jpg) |
-| *Description 3* | *Description 4* |
+| ![Alt Text]("images/qiusai.png") | ![Alt Text]("images/RoboticX.png") |
+
+| SSR Group 2023, Macau |SSR Group 2022, Shenzhen |
+|:---------:|:---------:|
+| ![Alt Text]("images/SSR2023.png") | ![Alt Text]("images/SSR2022.png") |
+
 
