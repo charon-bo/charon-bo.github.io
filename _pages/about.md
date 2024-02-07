@@ -38,7 +38,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
  
 [2024/01] Our work on bidirectional human-robot interaction e-skin has been accepted by ICRA 2024, Japan, Yokohama.
 
-[2024/01] SSR Group held the 2023 annual summary meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) of the University of Macau, in Macau, China
+[2024/01] SSR Group held the 2023 annual summary meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) of the University of Macau, in Macau, China.
 
 [2023/10] Shilong obtained the internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue research on robot tactile! 
 
