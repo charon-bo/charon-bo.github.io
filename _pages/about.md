@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Personal profile
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Assoc. Prof. Wenbo Ding in SSR Group.
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of Professor Wenbo Ding in SSR Group.
 
 
 # 📝 Research interests
