@@ -97,4 +97,4 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 # 🗺️ Visit Map
 
-<a href="https://clustrmaps.com/site/1byil"><img src="https://www.clustrmaps.com/map_v2.png?d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM&cl=ffffff" width="1000" /></a>
+<a href="https://clustrmaps.com/site/1byil"><img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=1000&t=n&d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM"" /></a>
