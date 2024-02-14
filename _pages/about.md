@@ -97,5 +97,5 @@ His work is driven by a passion for pioneering developments in these fields, aim
 | <img src="images/SSR2023.PNG" width="500"> | <img src="images/SSR2022.PNG" width="500"> |
 
 # 🗺️ Visit Map
-<iframe width="600" height="450" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.clustrmaps.com/map_v2.png?d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM&cl=ffffff"></iframe>
+![Visit Map](https://www.clustrmaps.com/map_v2.png?d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM&cl=ffffff)
 
