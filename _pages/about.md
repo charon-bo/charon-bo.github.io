@@ -64,7 +64,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
 - A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing
 -	`Shilong Mu*`, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.
 -	 `Nano Energy`, 2023, 116: 108790. (JCR:Q1; IF:17.6)
--	 [[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+-	 [[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/assets/PDF/NanoEnergy-EM-Finger.pdf)
 
 </div>
 </div>
@@ -74,7 +74,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
 - Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback
 -	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.
 -	`ICRA` 2024, Japan, Yokohama
--	[[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)[[Project page]](https://sites.google.com/view/touch-e-skin/)
+-	[[Link]](https://arxiv.org/abs/2402.05725) [[PDF]](/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf)[[Project page]](https://sitesgoogle.com/view/touch-e-skin/)
 </div>
 </div>
 
