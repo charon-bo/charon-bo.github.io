@@ -33,6 +33,8 @@ His work is driven by a passion for pioneering developments in these fields, aim
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2024/03] Shilong’s ICRA 2024 RAS Travel Support Application has been accepted!
+
 [2024/01] SSR Group has four papers got accepted by ICRA 2024. Congrats to shilong, xiaosa, ziwu, and chenchang! Research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile, flexible operation!
  
 [2024/01] Our work on bidirectional human-robot interaction e-skin has been accepted by ICRA 2024, Japan, Yokohama.
