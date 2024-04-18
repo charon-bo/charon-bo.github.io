@@ -38,7 +38,7 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 |Spatial computing operating system  <br>  (visual, tactile, spatial sense) | Multi-modal two-finger gripper-TactoGrip | 
 |:---------:|:---------:|
-| <video width="500" controls oncontextmenu="return false;" disablePictureInPicture><source src="images/Spatial_computing_operating_system.mp4" type="video/mp4"></video> | <video width="500" controls oncontextmenu="return false;" disablePictureInPicture><source src="images/TactoGrip-v1-EN.mp4" type="video/mp4"></video> |
+| <video width="500" controls oncontextmenu="return false;" ><source src="images/Spatial_computing_operating_system.mp4" type="video/mp4"></video> | <video width="500" controls oncontextmenu="return false;" ><source src="images/TactoGrip-v1-EN.mp4" type="video/mp4"></video> |
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
