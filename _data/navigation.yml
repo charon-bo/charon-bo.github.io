@@ -3,6 +3,9 @@ main:
   - title: "About me"
     url: "/#about-me"
 
+  - title: "Ongoing works"
+    url: "/#-Ongoing works"
+
   - title: "News"
     url: "/#-News"
 
