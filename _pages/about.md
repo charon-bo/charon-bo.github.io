@@ -30,8 +30,20 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
 
 
+
+<span class='anchor' id='-Ongoing works'></span>
+
+# 🤖 Ongoing works (Welcome to join us!!!!)
+
+
+|Spatial computing operating system  <br>  (visual, tactile, spatial sense) | Multi-modal two-finger gripper-TactoGrip | 
+|:---------:|:---------:|
+| <img src="images/Spatial computing operating system.mp4" width="500"> | <img src="images/TactoGrip-v1-EN.mp4" width="500"> |
+
+
 <span class='anchor' id='-News'></span>
 # 🔥 News
+[2024/04] Shilong participated in the first China Humanoid Robot Industry Conference held in Beijing!
 
 [2024/03] Shilong’s ICRA 2024 RAS Travel Support Application has been accepted!
 
