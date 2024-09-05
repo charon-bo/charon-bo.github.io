@@ -23,7 +23,6 @@ Shilong Mu received his B.S. degree in Electronic Information Engineering from [
 # 📝 Research interests
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
 - **Tactile sensing**
-- **Electronic skin**
 - **Human-machine interface**
 - **Embodied AI**
 
@@ -42,6 +41,18 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
+[2024/07] Shilong, Henry, Xinyue, Runze won the first prize of TBSI, RETREAT 2024, with a bonus of ¥ 30,000!
+
+[2024/07] Our work “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation” has been accepted by MobiCom PICASSO 2024.
+
+[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize of TBSI RETREAT 2024 with a prize of ¥30,000. His name is **Robocare**!
+
+[2024/06] SSR Group 2021 Graduation Party Held in Shenzhen!
+
+[2024/05] Shilong attended icra 2025 in Yokohama, Japan!
+
+[2024/04] Shilong won the third prize of National Outstanding Graduate Students Workshop at The Chinese University of Hong Kong, Shenzhen!
+
 [2024/04] Shilong participated in the first China Humanoid Robot Industry Conference held in Beijing!
 
 [2024/03] Shilong’s ICRA 2024 RAS Travel Support Application has been accepted!
