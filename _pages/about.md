@@ -44,8 +44,6 @@ His work is driven by a passion for pioneering developments in these fields, aim
 
 [2024/08] Our work “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation” has been accepted by MobiCom PICASSO 2024.
 
-[2024/07] Shilong, Henry, Xinyue, Runze won the first prize of TBSI, RETREAT 2024, with a bonus of ¥ 30,000!
-
 [2024/07] Shilong, Henry, Xinyue, and Runze won the first prize of TBSI RETREAT 2024 with a prize of ¥30,000. His name is **Robocare**!
 
 [2024/06] SSR Group 2021 Graduation Party Held in Shenzhen!
