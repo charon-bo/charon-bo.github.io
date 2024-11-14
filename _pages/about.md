@@ -47,7 +47,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <!-- Video 1: Spatial Computing Operating System -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Spatial Computing Operating System</h3>
-    <video width="100%" controls>
+    <video width="100%" height="300px" controls>
       <source src="images/Spatial_computing_operating_system.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -57,7 +57,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <!-- Video 2: Multi-modal Two-Finger Gripper - TactoGrip -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Multi-modal Two-Finger Gripper - TactoGrip</h3>
-    <video width="100%" controls>
+    <video width="100%" height="300px" controls>
       <source src="images/TactoGrip-v1-EN.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
@@ -67,7 +67,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <!-- Image: Robocare -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Robocare</h3>
-    <img src="images/robocare.png" alt="Robocare" width="100%" style="max-width: 500px; display: block; margin: 0 auto;">
+    <img src="images/robocare.pnf" alt="Robocare" width="100%" height="300px" style="object-fit: cover; display: block; margin: 0 auto;">
     <p style="text-align: center;">(Robotic Care)</p>
   </div>
 </div>
@@ -103,6 +103,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     font-size: 0.9em;
   }
 </style>
+
 
 
 
