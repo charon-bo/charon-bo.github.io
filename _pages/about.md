@@ -41,9 +41,8 @@ Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
-<!-- Carousel section for videos -->
-<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
-
+<!--
+<div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
   <!-- First Video: Spatial Computing Operating System -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
     <h3 style="text-align: center;">Spatial Computing Operating System</h3>
@@ -63,9 +62,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     </video>
     <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
   </div>
-
 </div>
-
+-->
 
 
 <span class='anchor' id='-News'></span>
