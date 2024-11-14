@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Shilong Mu's Personal Profile"
 author_profile: true
 redirect_from:
   - /about/
@@ -24,67 +24,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 📖 Personal profile
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in SSR Group.
+# 📖 Personal Profile
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robotic sensing and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
 
+During his studies, Shilong received **national scholarships** for both graduate students (THU) and undergraduates (CUMT).
 
-During my studies, I received **national scholarships** for both graduate students (THU) and undergraduates (CUMT).
-
-
-# 📝 Research interests
+# 📝 Research Interests
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
 - **Tactile sensing**
-- **Human-machine interface**
+- **Human-machine interfaces**
 - **Embodied AI**
 
-Feel free to reach out for collaboration and discussion of research ideas.
+Feel free to reach out for collaboration or discussions about research ideas.
 
-Email: msl22 [AT] mails.tsinghau.edu.cn
-
-
-
+Email: msl22 [AT] mails.tsinghua.edu.cn
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
-[2024/10] Shilong won the **national scholarships** for graduate students at Tsinghua University!
+[2024/10] Shilong was awarded the **National Scholarship** for graduate students at Tsinghua University!
 
-[2024/08] Our work “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation” has been accepted by MobiCom PICASSO 2024.
+[2024/08] Our work, “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation,” has been accepted by MobiCom PICASSO 2024.
 
-[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize of TBSI RETREAT 2024 with a prize of **¥30,000**. His name is **Robocare**!
+[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize at TBSI RETREAT 2024, receiving a prize of **¥30,000** for their project **Robocare**!
 
-[2024/06] SSR Group 2021 Graduation Party Held in Shenzhen!
+[2024/06] The SSR Group 2021 Graduation Party was held in Shenzhen!
 
-[2024/05] Shilong attended icra 2025 in Yokohama, Japan!
+[2024/05] Shilong attended ICRA 2025 in Yokohama, Japan!
 
-[2024/04] Shilong won the third prize of National Outstanding Graduate Students Workshop at The Chinese University of Hong Kong, Shenzhen!
+[2024/04] Shilong received the third prize at the National Outstanding Graduate Students Workshop, hosted by The Chinese University of Hong Kong, Shenzhen!
 
 [2024/04] Shilong participated in the first China Humanoid Robot Industry Conference held in Beijing!
 
-[2024/03] Shilong’s ICRA 2024 RAS Travel Support Application has been accepted!
+[2024/03] Shilong’s ICRA 2024 RAS Travel Support Application was accepted!
 
-[2024/01] SSR Group has four papers got accepted by ICRA 2024. Congrats to shilong, xiaosa, ziwu, and chenchang! Research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile, flexible operation!
- 
-[2024/01] Our work on bidirectional human-robot interaction e-skin has been accepted by ICRA 2024, Japan, Yokohama.
+[2024/01] SSR Group had four papers accepted by ICRA 2024. Congratulations to Shilong, Xiaosa, Ziwu, and Chenchang! The research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile sensing, and flexible operations!
 
-[2024/01] SSR Group held the 2023 annual summary meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) of the University of Macau, in Macau, China.
+[2024/01] Our work on bidirectional human-robot interaction e-skin was accepted by ICRA 2024 in Yokohama, Japan.
 
-[2023/10] Shilong obtained the internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue research on robot tactile! 
+[2024/01] SSR Group held the 2023 Annual Summary Meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) at the University of Macau, in Macau, China.
 
-[2023/10] Shilong received the Tsinghua University second-class scholarship! 
+[2023/10] Shilong received an internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue his research on robot tactile sensing!
 
-[2023/10] Shilong participated in the 8th "Fundamental Theories and Key Technologies of Soft Robotics" Symposium in 2023. 
+[2023/10] Shilong received the Tsinghua University second-class scholarship!
 
-[2023/09] Shilong participated in the 2023 Guangdong Provincial Graduate Student Academic Forum and gave an academic presentation.
+[2023/10] Shilong participated in the 8th "Fundamental Theories and Key Technologies of Soft Robotics" Symposium in 2023.
 
-[2023/09] Our work on hybrid embedded system for the continuous monitoring of bird fligh has been accepted by UbiComp 23 SESSION: CPD.
+[2023/09] Shilong participated in the 2023 Guangdong Provincial Graduate Student Academic Forum and delivered an academic presentation.
 
-[2023/08] Our work on platypus-inspired electro-mechanosensory finger for remote control and tactile sensing has been accepted by Nano Energy (IF: 19.06). 
+[2023/09] Our work on hybrid embedded systems for continuous monitoring of bird flight was accepted by UbiComp 2023, Session: CPD.
 
-[2023/01] SSR Group held the 2022 annual summary meeting in Shenzhen, China！
+[2023/08] Our work on a platypus-inspired electro-mechanosensory finger for remote control and tactile sensing was accepted by Nano Energy (IF: 19.06).
+
+[2023/01] SSR Group held the 2022 Annual Summary Meeting in Shenzhen, China!
 
 <span class='anchor' id='-Publications'></span>
-
 
 # 📝 Publications
 
@@ -98,7 +92,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   </div>
   <div class='paper-box-text'>
     <ul>
-      <li>A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing</li>
+      <li>A Platypus-inspired Electro-mechanosensory Finger for Remote Control and Tactile Sensing</li>
       <li><strong>Shilong Mu*</strong>, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.</li>
       <li><i>Nano Energy</i>, 2023, 116: 108790. (JCR:Q1; IF:17.6)</li>
       <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
@@ -153,13 +147,12 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
-      <li><strong>Ziwu Song*</strong>, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Dengfeng Peng, Xiao-Ping Zhang, Fellow, IEEE, Wenbo Ding.</li>
+      <li><strong>Ziwu Song*</strong>, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
-      <li><a href="/assets/PDF/SATac.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
-
 
 <!-- Publication 5: IEEE Sensors Journal 2024 -->
 <div class='paper-box'>
@@ -196,8 +189,6 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     </ul>
   </div>
 </div>
-
-
 
 <span class='anchor' id='-Pics'></span>
 
@@ -250,7 +241,9 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   </div>
 </div>
 
+<span class='anchor' id='-VisitMap'></span>
 
 # 🗺️ Visit Map
 
 <a href="https://clustrmaps.com/site/1byil"><img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=m&d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM&co=2d78ad&ct=ffffff" /></a>
+
