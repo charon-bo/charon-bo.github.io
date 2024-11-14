@@ -87,6 +87,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 
 # 📝 Publications
 
+<!-- Publication 1: nano-energy 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -99,11 +100,12 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
       <li>A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing</li>
       <li><strong>Shilong Mu*</strong>, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.</li>
       <li><i>Nano Energy</i>, 2023, 116: 108790. (JCR:Q1; IF:17.6)</li>
-      <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub" target="_blank">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
 
+<!-- Publication 2: ICRA 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -116,11 +118,12 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
       <li>Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback</li>
       <li><strong>Shilong Mu*</strong>, Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
-      <li><a href="https://arxiv.org/abs/2402.05725">Link</a> | <a href="/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf" target="_blank">PDF</a> | <a href="https://sitesgoogle.com/view/touch-e-skin/" target="_blank">Project page</a></li>
+      <li><a href="https://arxiv.org/abs/2402.05725" target="_blank">Link</a> | <a href="/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf" target="_blank">PDF</a> | <a href="https://sitesgoogle.com/view/touch-e-skin/" target="_blank">Project page</a></li>
     </ul>
   </div>
 </div>
 
+<!-- Publication 3: MobiCom Picasso 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -138,6 +141,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   </div>
 </div>
 
+<!-- Publication 4: ICRA 2024 (SATac) -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -149,12 +153,13 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     <ul>
       <li>HandySense: SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
       <li><strong>Ziwu Song∗, Ran Yu∗, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Dengfeng Peng, Xiao-Ping Zhang, Fellow, IEEE, Wenbo Ding.</li>
-       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
+      <li><i>ICRA</i> 2024, Yokohama, Japan</li>
       <li><a href="/assets/PDF/SATac.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
 
+<!-- Publication 5: IEEE Sensors Journal 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -171,6 +176,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     </ul>
   </div>
 </div>
+
+<!-- Publication 6: UbiComp 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -182,11 +189,13 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     <ul>
       <li>Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor</li>
       <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
-      <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
+      <li><i>UbiComp</i> 2023, Tokyo, Japan</li>
       <li><a href="/assets/PDF/UbiComp2.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
+
+
 <span class='anchor' id='-Pics'></span>
 
 # 📸 Pics
