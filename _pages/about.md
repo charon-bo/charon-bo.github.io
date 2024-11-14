@@ -63,6 +63,13 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     </video>
     <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
   </div>
+
+  <!-- Image: Robocare -->
+  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
+    <h3 style="text-align: center;">Robocare</h3>
+    <img src="images/robocare.png" alt="Robocare" width="100%" style="max-width: 500px; display: block; margin: 0 auto;">
+    <p style="text-align: center;">(Robotic Care)</p>
+  </div>
 </div>
 
 <!-- Add some custom styles for smooth scrolling -->
@@ -80,10 +87,10 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     flex: 0 0 auto;
     scroll-snap-align: center;
     width: 100%;
-    max-width: 500px; /* Limit the width of each video container */
+    max-width: 500px; /* Limit the width of each container */
   }
 
-  /* Optional: Styling the video captions */
+  /* Optional: Styling the captions */
   .video-carousel h3 {
     text-align: center;
     margin-top: 10px;
@@ -96,6 +103,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     font-size: 0.9em;
   }
 </style>
+
 
 
 
