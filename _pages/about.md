@@ -42,13 +42,11 @@ Feel free to reach out for collaboration and discussion of research ideas.
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
 
-# 🤖 Highlights
+<!-- 🤖 Highlights -->
 
-<!-- Carousel section for videos -->
-<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
-
-  <!-- First Video: Spatial Computing Operating System -->
-  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
+<div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
+  <!-- Video 1: Spatial Computing Operating System -->
+  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Spatial Computing Operating System</h3>
     <video width="100%" controls>
       <source src="images/Spatial_computing_operating_system.mp4" type="video/mp4">
@@ -57,8 +55,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     <p style="text-align: center;">(Visual, Tactile, Spatial Sense)</p>
   </div>
 
-  <!-- Second Video: Multi-modal Two-Finger Gripper - TactoGrip -->
-  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
+  <!-- Video 2: Multi-modal Two-Finger Gripper - TactoGrip -->
+  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Multi-modal Two-Finger Gripper - TactoGrip</h3>
     <video width="100%" controls>
       <source src="images/TactoGrip-v1-EN.mp4" type="video/mp4">
@@ -66,8 +64,40 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     </video>
     <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
   </div>
-
 </div>
+
+<!-- Add some custom styles for smooth scrolling -->
+<style>
+  .video-carousel {
+    display: flex;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    gap: 1em;
+    padding: 10px;
+    scroll-behavior: smooth; /* Smooth scrolling */
+  }
+
+  .video-carousel > div {
+    flex: 0 0 auto;
+    scroll-snap-align: center;
+    width: 100%;
+    max-width: 500px; /* Limit the width of each video container */
+  }
+
+  /* Optional: Styling the video captions */
+  .video-carousel h3 {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 1.2em;
+  }
+
+  .video-carousel p {
+    text-align: center;
+    margin-top: 5px;
+    font-size: 0.9em;
+  }
+</style>
+
 
 
 <span class='anchor' id='-News'></span>
