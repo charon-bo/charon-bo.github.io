@@ -138,7 +138,55 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MobiCom Picasso 2024</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>HandySense: SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
+      <li><strong>Ziwu Song∗, Ran Yu∗, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Dengfeng Peng, Xiao-Ping Zhang, Fellow, IEEE, Wenbo Ding.</li>
+       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
+      <li><a href="/assets/PDF/SATac.pdf" target="_blank">PDF</a></li>
+    </ul>
+  </div>
+</div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MobiCom Picasso 2024</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots</li>
+      <li>Ziwu Song∗, Chenchang Li∗, Zhentan Quan, <strong>Shilong Mu</strong>, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, Wenbo Ding, Xiao-Ping Zhang, Fellow, IEEE.</li>
+      <li><i>IEEE Sensors Journal</i> 2024</li>
+      <li><a href="/assets/PDF/TacTID.pdf" target="_blank">PDF</a></li>
+    </ul>
+  </div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MobiCom Picasso 2024</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor</li>
+      <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
+      <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
+      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
+    </ul>
+  </div>
+</div>
 <span class='anchor' id='-Pics'></span>
 
 # 📸 Pics
