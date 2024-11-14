@@ -141,8 +141,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">MobiCom Picasso 2024</div>
-      <img src='images/HandySense.png' alt="sym" width="100%">
+      <div class="badge">ICRA 2024</div>
+      <img src='images/SATac.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -158,8 +158,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">MobiCom Picasso 2024</div>
-      <img src='images/HandySense.png' alt="sym" width="100%">
+      <div class="badge">IEEE Sensors Journal 2024</div>
+      <img src='images/TacTID.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -174,8 +174,8 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">MobiCom Picasso 2024</div>
-      <img src='images/HandySense.png' alt="sym" width="100%">
+      <div class="badge">UbiComp 2023</div>
+      <img src='images/UbiComp2.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -183,7 +183,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
       <li>Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor</li>
       <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
       <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
-      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
+      <li><a href="/assets/PDF/UbiComp2.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
