@@ -152,7 +152,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   </div>
   <div class='paper-box-text'>
     <ul>
-      <li>HandySense: SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
+      <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
       <li><strong>Ziwu Song∗, Ran Yu∗, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Dengfeng Peng, Xiao-Ping Zhang, Fellow, IEEE, Wenbo Ding.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
       <li><a href="/assets/PDF/SATac.pdf" target="_blank">PDF</a></li>
