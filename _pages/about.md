@@ -177,7 +177,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 
 - HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation
 -	`Shilong Mu*`,  Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.
--	`MobiCom Picasso` 2024, Washington D.C., DC, USA
+-	`MobiCom Picasso` 2024, Washington D.C., USA
 -	[ [[PDF]](/assets/PDF/HandySense.pdf)
 </div>
 
