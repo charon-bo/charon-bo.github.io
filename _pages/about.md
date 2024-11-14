@@ -41,7 +41,7 @@ Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
-# 🤖 Highlights
+<!-- # 🤖 Highlights
 
 <div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
   <!-- Video 1: Spatial Computing Operating System -->
@@ -102,7 +102,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
     margin-top: 5px;
     font-size: 0.9em;
   }
-</style>
+</style>-->
 
 
 
@@ -151,35 +151,57 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 
 # 📝 Publications
 
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">nano-energy 2023</div><img src='images/nano-energy2023.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing
--	`Shilong Mu*`, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.
--	 `Nano Energy`, 2023, 116: 108790. (JCR:Q1; IF:17.6)
--	 [[Link]]([https://dx.doi.org/10.3390/s22093587](https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub)) [[PDF]](/assets/PDF/NanoEnergy-EM-Finger.pdf)
-
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024</div><img src='images/ICRA 2024.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-- Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback
--	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.
--	`ICRA` 2024,  Yokohama, Japan
--	[[Link]](https://arxiv.org/abs/2402.05725) [[PDF]](/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf)[[Project page]](https://sitesgoogle.com/view/touch-e-skin/)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">nano-energy 2023</div>
+      <img src='images/nano-energy2023.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>A platypus-inspired electro-mechanosensory finger for remote control and tactile sensing</li>
+      <li><strong>Shilong Mu*</strong>, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.</li>
+      <li><i>Nano Energy</i>, 2023, 116: 108790. (JCR:Q1; IF:17.6)</li>
+      <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
+    </ul>
+  </div>
 </div>
 
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICRA 2024</div>
+      <img src='images/ICRA 2024.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback</li>
+      <li><strong>Shilong Mu*</strong>, Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.</li>
+      <li><i>ICRA</i> 2024, Yokohama, Japan</li>
+      <li><a href="https://arxiv.org/abs/2402.05725">Link</a> | <a href="/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf" target="_blank">PDF</a> | <a href="https://sitesgoogle.com/view/touch-e-skin/" target="_blank">Project page</a></li>
+    </ul>
+  </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Picasso 2024</div><img src='images/HandySense.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-- HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation
--	`Shilong Mu*`,  Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.
--	`MobiCom Picasso` 2024, Washington D.C., USA
--	[ [[PDF]](/assets/PDF/HandySense.pdf)
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MobiCom Picasso 2024</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation</li>
+      <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
+      <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
+      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
+    </ul>
+  </div>
 </div>
+
 
 <span class='anchor' id='-Pics'></span>
 
