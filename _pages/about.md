@@ -10,7 +10,7 @@ redirect_from:
 <!-- Custom styles to increase font size -->
 <style>
   body {
-    font-size: 18px; /* Adjust the font size as needed */
+    font-size: 17px; /* Adjust the font size as needed */
     line-height: 1.6; /* Optional: adjust line height for better readability */
   }
 </style>
