@@ -17,7 +17,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Personal profile
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua-Berkeley Shenzhen Institute](https://www.tbsi.edu.cn/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in SSR Group.
+Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). He concentrated on the research topic of robotic sensing and embodied AI under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in SSR Group.
+
+
+During my studies, I received **national scholarships** for both graduate students (THU) and undergraduates (CUMT).
 
 
 # 📝 Research interests
@@ -26,25 +29,57 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 - **Human-machine interface**
 - **Embodied AI**
 
-His work is driven by a passion for pioneering developments in these fields, aiming to enhance the capabilities of human-machine interactions and robotic technologies.
+Feel free to reach out for collaboration and discussion of research ideas.
+
+Email: msl22 [AT] mails.tsinghau.edu.cn
 
 
 
 <span class='anchor' id='-Ongoing works'></span>
 
-# 🤖 Ongoing works (Welcome to join us!!!!)
+<!-- 🤖 Ongoing works (Welcome to join us!!!!) -->
 
-
-|Spatial computing operating system  <br>  (visual, tactile, spatial sense) | Multi-modal two-finger gripper-TactoGrip | 
+| Spatial computing operating system  <br>  (visual, tactile, spatial sense) | Multi-modal two-finger gripper-TactoGrip | 
 |:---------:|:---------:|
-| <video width="100%" controls><source src="images/Spatial_computing_operating_system.mp4" type="video/mp4"></video> | <video width="100%" controls><source src="images/TactoGrip-v1-EN.mp4" type="video/mp4"></video> 
+| <video width="100%" controls><source src="images/Spatial_computing_operating_system.mp4" type="video/mp4"></video> | <video width="100%" controls><source src="images/TactoGrip-v1-EN.mp4" type="video/mp4"></video> |
+
+
+# 🤖 Highlights
+
+<!-- Carousel section for videos -->
+<div style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
+
+  <!-- First Video: Spatial Computing Operating System -->
+  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
+    <h3 style="text-align: center;">Spatial Computing Operating System</h3>
+    <video width="100%" controls>
+      <source src="images/Spatial_computing_operating_system.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center;">(Visual, Tactile, Spatial Sense)</p>
+  </div>
+
+  <!-- Second Video: Multi-modal Two-Finger Gripper - TactoGrip -->
+  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
+    <h3 style="text-align: center;">Multi-modal Two-Finger Gripper - TactoGrip</h3>
+    <video width="100%" controls>
+      <source src="images/TactoGrip-v1-EN.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+    <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
+  </div>
+
+</div>
+
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2024/10] Shilong won the **national scholarships** for graduate students at Tsinghua University!
+
 [2024/08] Our work “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation” has been accepted by MobiCom PICASSO 2024.
 
-[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize of TBSI RETREAT 2024 with a prize of ¥30,000. His name is **Robocare**!
+[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize of TBSI RETREAT 2024 with a prize of **¥30,000**. His name is **Robocare**!
 
 [2024/06] SSR Group 2021 Graduation Party Held in Shenzhen!
 
