@@ -113,7 +113,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <div class='paper-box-image'>
     <div>
       <div class="badge">nano-energy 2023</div>
-      <img src='images/nano-energy2023.png' alt="sym" width="100%">
+      <img src='images/EM_FINGER.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
