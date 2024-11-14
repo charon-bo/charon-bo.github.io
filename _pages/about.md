@@ -41,29 +41,6 @@ Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
-<!--
-<div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
-  <!-- First Video: Spatial Computing Operating System -->
-  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
-    <h3 style="text-align: center;">Spatial Computing Operating System</h3>
-    <video width="100%" controls>
-      <source src="images/Spatial_computing_operating_system.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p style="text-align: center;">(Visual, Tactile, Spatial Sense)</p>
-  </div>
-
-  <!-- Second Video: Multi-modal Two-Finger Gripper - TactoGrip -->
-  <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 400px;">
-    <h3 style="text-align: center;">Multi-modal Two-Finger Gripper - TactoGrip</h3>
-    <video width="100%" controls>
-      <source src="images/TactoGrip-v1-EN.mp4" type="video/mp4">
-      Your browser does not support the video tag.
-    </video>
-    <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
-  </div>
-</div>
--->
 
 
 
