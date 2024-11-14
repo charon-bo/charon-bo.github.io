@@ -67,7 +67,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   <!-- Image: Robocare -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
     <h3 style="text-align: center;">Robocare</h3>
-    <img src="images/robocare.pnf" alt="Robocare" width="100%" height="300px" style="object-fit: cover; display: block; margin: 0 auto;">
+    <img src="images/robocare.png" alt="Robocare" width="100%" height="300px" style="object-fit: cover; display: block; margin: 0 auto;">
     <p style="text-align: center;">(Robotic Care)</p>
   </div>
 </div>
