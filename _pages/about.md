@@ -149,7 +149,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
       <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
       <li><strong>Ziwu Song*</strong>, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
-      <li><a href="https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
+      <li><a href="[https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
@@ -167,7 +167,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
       <li>TacTID: High-performance Visuo-Tactile Sensor-based Terrain Identification for Legged Robots</li>
       <li>Ziwu Song∗, Chenchang Li∗, Zhentan Quan, <strong>Shilong Mu</strong>, Xiaosa Li, Ziyi Zhao, Wanxin Jin, Chenye Wu, Wenbo Ding, Xiao-Ping Zhang, Fellow, IEEE.</li>
       <li><i>IEEE Sensors Journal</i> 2024</li>
-      <li><a href="/assets/PDF/TacTID.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://ieeexplore.ieee.org/document/10576071">Link</a> | <a href="/assets/PDF/TacTID.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
@@ -183,9 +183,9 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor</li>
-      <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
+      <li>Zenan Lin*, Kai Chong Lei*, Shilong Mu, Ziwu Song, Yuan Dai, Wenbo Ding†, Xiao-Ping Zhang.</li>
       <li><i>UbiComp</i> 2023, [Location]</li>
-      <li><a href="/assets/PDF/UbiComp2.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://dl.acm.org/doi/10.1145/3544793.3560404">Link</a> | <a href="/assets/PDF/UbiComp2.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
