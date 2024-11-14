@@ -146,7 +146,7 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">nano-energy 2023</div>
+      <div class="badge">SATac ICRA 2024</div>
       <img src='images/SATac.png' alt="sym" width="100%">
     </div>
   </div>
