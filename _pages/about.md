@@ -147,7 +147,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
-      <li><strong>Ziwu Song*</strong>, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Wenbo Ding†.</li>
+      <li>Ziwu Song*, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
       <li><a href="[https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
     </ul>
@@ -183,7 +183,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>Multimodal Surface Sensing based on Hybrid Flexible Triboelectric and Piezoresistive Sensor</li>
-      <li>Zenan Lin*, Kai Chong Lei*, Shilong Mu, Ziwu Song, Yuan Dai, Wenbo Ding†, Xiao-Ping Zhang.</li>
+      <li>Zenan Lin*, Kai Chong Lei*, <strong>Shilong Mu</strong>, Ziwu Song, Yuan Dai, Wenbo Ding†, Xiao-Ping Zhang.</li>
       <li><i>UbiComp</i> 2023, [Location]</li>
       <li><a href="https://dl.acm.org/doi/10.1145/3544793.3560404">Link</a> | <a href="/assets/PDF/UbiComp2.pdf" target="_blank">PDF</a></li>
     </ul>
