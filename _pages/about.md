@@ -2,10 +2,18 @@
 permalink: /
 title: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+
+<!-- Custom styles to increase font size -->
+<style>
+  body {
+    font-size: 18px; /* Adjust the font size as needed */
+    line-height: 1.6; /* Optional: adjust line height for better readability */
+  }
+</style>
 
 {% if site.google_scholar_stats_use_cdn %}
 {% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
@@ -32,16 +40,6 @@ Shilong Mu's academic and research endeavors are centered around the cutting-edg
 Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
-
-
-
-<span class='anchor' id='-Ongoing works'></span>
-
-<!-- 🤖 Ongoing works (Welcome to join us!!!!) -->
-
-| Spatial computing operating system  <br>  (visual, tactile, spatial sense) | Multi-modal two-finger gripper-TactoGrip | 
-|:---------:|:---------:|
-| <video width="100%" controls><source src="images/Spatial_computing_operating_system.mp4" type="video/mp4"></video> | <video width="100%" controls><source src="images/TactoGrip-v1-EN.mp4" type="video/mp4"></video> |
 
 
 # 🤖 Highlights
