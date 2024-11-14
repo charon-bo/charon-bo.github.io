@@ -41,33 +41,49 @@ Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
-<!-- # 🤖 Highlights
+<!-- 
+# 🤖 Highlights
 
 <div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
   <!-- Video 1: Spatial Computing Operating System -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
+    <!-- Title of the video -->
     <h3 style="text-align: center;">Spatial Computing Operating System</h3>
+    
+    <!-- Video element for displaying the spatial computing video -->
     <video width="100%" height="300px" controls>
       <source src="images/Spatial_computing_operating_system.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
+    
+    <!-- Description of the video -->
     <p style="text-align: center;">(Visual, Tactile, Spatial Sense)</p>
   </div>
 
   <!-- Video 2: Multi-modal Two-Finger Gripper - TactoGrip -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
+    <!-- Title of the video -->
     <h3 style="text-align: center;">Multi-modal Two-Finger Gripper - TactoGrip</h3>
+    
+    <!-- Video element for displaying the TactoGrip video -->
     <video width="100%" height="300px" controls>
       <source src="images/TactoGrip-v1-EN.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
+    
+    <!-- Description of the video -->
     <p style="text-align: center;">(Tactile Gripping and Sensing)</p>
   </div>
 
   <!-- Image: Robocare -->
   <div style="flex: 0 0 auto; scroll-snap-align: center; width: 100%; max-width: 500px;">
+    <!-- Title for the image -->
     <h3 style="text-align: center;">Robocare</h3>
+    
+    <!-- Image element for displaying the Robocare image -->
     <img src="images/robocare.png" alt="Robocare" width="100%" height="300px" style="object-fit: cover; display: block; margin: 0 auto;">
+    
+    <!-- Description of the image -->
     <p style="text-align: center;">(Robotic Care)</p>
   </div>
 </div>
@@ -77,32 +93,35 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
   .video-carousel {
     display: flex;
     overflow-x: auto;
-    scroll-snap-type: x mandatory;
+    scroll-snap-type: x mandatory; /* Enabling snap scrolling for each item */
     gap: 1em;
     padding: 10px;
-    scroll-behavior: smooth; /* Smooth scrolling */
+    scroll-behavior: smooth; /* Smooth scrolling effect */
   }
 
   .video-carousel > div {
-    flex: 0 0 auto;
-    scroll-snap-align: center;
+    flex: 0 0 auto; /* Prevent the items from resizing */
+    scroll-snap-align: center; /* Ensures each item aligns at the center when scrolled */
     width: 100%;
-    max-width: 500px; /* Limit the width of each container */
+    max-width: 500px; /* Set a max width for each container to maintain consistency */
   }
 
-  /* Optional: Styling the captions */
+  /* Optional: Styling the captions (headings) */
   .video-carousel h3 {
     text-align: center;
     margin-top: 10px;
     font-size: 1.2em;
   }
 
+  /* Optional: Styling the paragraph captions */
   .video-carousel p {
     text-align: center;
     margin-top: 5px;
     font-size: 0.9em;
   }
-</style>-->
+</style>
+-->
+
 
 
 
