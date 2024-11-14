@@ -82,11 +82,11 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 # 📝 Publications
 
-<!-- Publication 1: nano-energy 2023 -->
+<!-- Publication 1: Nano-Energy 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">nano-energy 2023</div>
+      <div class="badge">Nano-Energy 2023</div>
       <img src='images/EM_FINGER.png' alt="sym" width="100%">
     </div>
   </div>
@@ -136,11 +136,11 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 4: SATac ICRA 2024 -->
+<!-- Publication 4: ICRA 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">SATac ICRA 2024</div>
+      <div class="badge">ICRA 2024</div>
       <img src='images/SATac.png' alt="sym" width="100%">
     </div>
   </div>
