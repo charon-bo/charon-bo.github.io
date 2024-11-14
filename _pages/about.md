@@ -41,8 +41,7 @@ Feel free to reach out for collaboration and discussion of research ideas.
 
 Email: msl22 [AT] mails.tsinghau.edu.cn
 
-
-<!-- 🤖 Highlights -->
+# 🤖 Highlights
 
 <div class="video-carousel" style="display: flex; overflow-x: auto; scroll-snap-type: x mandatory; gap: 1em; padding: 10px;">
   <!-- Video 1: Spatial Computing Operating System -->
