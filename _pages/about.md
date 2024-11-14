@@ -177,17 +177,53 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 
 # 📸 Pics
 
-| With my lover in 2023, Shenzhen | Relaxation time, Shenzhen | 
-|:---------:|:---------:|
-| <img src="images/Lover1.png" width="500"> | <img src="images/ziji.png" width="500"> |
+<style>
+  /* Contain the entire image gallery in a container */
+  .image-carousel {
+    display: flex;
+    overflow: hidden; /* Hide the extra images outside the container */
+    width: 100%; /* Make it responsive */
+    justify-content: space-around; /* Ensure images are spaced evenly */
+  }
 
-| China vs. South Korea football match, <br> December 2023, Shenzhen | Robotics X Lab |
-|:---------:|:---------:|
-| <img src="images/qiusai.png" width="500"> | <img src="images/RoboticX.png" width="500"> |
+  /* Create the scroll effect with animation */
+  .image-carousel .carousel-items {
+    display: flex;
+    animation: scroll-images 15s linear infinite; /* Animation name, duration, timing function, and repeat */
+  }
 
-| SSR Group 2023 annual summary meeting, Macau | SSR Group 2022 annual summary meeting,  Shenzhen |
-|:---------:|:---------:|
-| <img src="images/SSR2023.PNG" width="500"> | <img src="images/SSR2022.PNG" width="500"> |
+  /* Define the scrolling animation */
+  @keyframes scroll-images {
+    0% {
+      transform: translateX(0);
+    }
+    100% {
+      transform: translateX(-100%); /* Move the container to the left, fully scrolling the images */
+    }
+  }
+
+  /* Style the images */
+  .image-carousel img {
+    width: 500px;
+    height: 300px; /* Set consistent height for all images */
+    object-fit: cover;
+    margin-right: 20px; /* Add space between images */
+  }
+</style>
+
+<!-- Image carousel wrapper -->
+<div class="image-carousel">
+  <div class="carousel-items">
+    <!-- Add images inside this wrapper -->
+    <img src="images/Lover1.png" alt="With my lover in 2023, Shenzhen">
+    <img src="images/ziji.png" alt="Relaxation time, Shenzhen">
+    <img src="images/qiusai.png" alt="China vs. South Korea football match, Shenzhen">
+    <img src="images/RoboticX.png" alt="Robotics X Lab">
+    <img src="images/SSR2023.PNG" alt="SSR Group 2023 annual summary meeting, Macau">
+    <img src="images/SSR2022.PNG" alt="SSR Group 2022 annual summary meeting, Shenzhen">
+  </div>
+</div>
+
 
 # 🗺️ Visit Map
 
