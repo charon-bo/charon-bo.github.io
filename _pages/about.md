@@ -167,11 +167,21 @@ Email: msl22 [AT] mails.tsinghau.edu.cn
 
 - Dual-modal Tactile E-skin: Enabling Bidirectional Human-Robot Interaction via Integrated Tactile Perception and Feedback
 -	`Shilong Mu*`,  Runze Zhao*, Zenan Lin, Yan Huang, Shoujie Li, Chenchang Li, Xiao-Ping Zhang, Wenbo Ding†.
--	`ICRA` 2024, Japan, Yokohama
+-	`ICRA` 2024,  Yokohama, Japan
 -	[[Link]](https://arxiv.org/abs/2402.05725) [[PDF]](/assets/PDF/Dual-modal%20Tactile%20E-skin.pdf)[[Project page]](https://sitesgoogle.com/view/touch-e-skin/)
 </div>
 </div>
 
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MobiCom Picasso 2024</div><img src='images/HandySense.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation
+-	`Shilong Mu*`,  Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.
+-	`MobiCom Picasso` 2024, Washington D.C., DC, USA
+-	[ [[PDF]](/assets/PDF/HandySense.pdf)
+</div>
+</div>
 
 <span class='anchor' id='-Pics'></span>
 
