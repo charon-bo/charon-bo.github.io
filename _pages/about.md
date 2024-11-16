@@ -42,79 +42,41 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
-<div class="news-container">
-    <ul class="news-list" id="newsList">
-        <!-- Add news items -->
-        <li class="news-item">[2024/10] Shilong was awarded the <strong>National Scholarship</strong> for graduate students at Tsinghua University!</li>
-        <li class="news-item">[2024/08] Our work, “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation,” has been accepted by MobiCom PICASSO 2024.</li>
-        <li class="news-item">[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize at TBSI RETREAT 2024, receiving a prize of **¥30,000** for their project **Robocare**!</li>
-        <li class="news-item">[2024/06] The SSR Group 2021 Graduation Party was held in Shenzhen!</li>
-        <li class="news-item">[2024/05] Shilong attended ICRA 2025 in Yokohama, Japan!</li>
-        <li class="news-item">[2024/04] Shilong received the third prize at the National Outstanding Graduate Students Workshop, hosted by The Chinese University of Hong Kong, Shenzhen!</li>
-        <li class="news-item">[2024/04] Shilong participated in the first China Humanoid Robot Industry Conference held in Beijing!</li>
-        <li class="news-item">[2024/03] Shilong’s ICRA 2024 RAS Travel Support Application was accepted!</li>
-        <li class="news-item">[2024/01] SSR Group had four papers accepted by ICRA 2024. Congratulations to Shilong, Xiaosa, Ziwu, and Chenchang! The research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile sensing, and flexible operations!</li>
-        <li class="news-item">[2024/01] Our work on bidirectional human-robot interaction e-skin was accepted by ICRA 2024 in Yokohama, Japan.</li>
-        <li class="news-item">[2024/01] SSR Group held the 2023 Annual Summary Meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) at the University of Macau, in Macau, China.</li>
-        <li class="news-item">[2023/10] Shilong received an internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue his research on robot tactile sensing!</li>
-        <li class="news-item">[2023/10] Shilong received the Tsinghua University second-class scholarship!</li>
-        <li class="news-item">[2023/10] Shilong participated in the 8th "Fundamental Theories and Key Technologies of Soft Robotics" Symposium in 2023.</li>
-        <li class="news-item">[2023/09] Shilong participated in the 2023 Guangdong Provincial Graduate Student Academic Forum and delivered an academic presentation.</li>
-        <li class="news-item">[2023/09] Our work on hybrid embedded systems for continuous monitoring of bird flight was accepted by UbiComp 2023, Session: CPD.</li>
-        <li class="news-item">[2023/08] Our work on a platypus-inspired electro-mechanosensory finger for remote control and tactile sensing was accepted by Nano Energy (IF: 19.06).</li>
-        <li class="news-item">[2023/01] SSR Group held the 2022 Annual Summary Meeting in Shenzhen, China!</li>
-    </ul>
-</div>
+[2024/10] Shilong was awarded the **National Scholarship** for graduate students at Tsinghua University!
 
-<style>
-    .news-container {
-        width: 90%; /* Dynamic width based on content */
-        max-width: 800px; /* Limit to a reasonable maximum */
-        margin: 0 auto;
-        height: 150px; /* Show 3 news items */
-        overflow: hidden;
-        position: relative;
-        border: 1px solid #ddd;
-        border-radius: 8px;
-        background: #fff;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    }
+[2024/08] Our work, “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation,” has been accepted by MobiCom PICASSO 2024.
 
-    .news-list {
-        list-style: none;
-        padding: 0;
-        margin: 0;
-        position: absolute;
-        animation: scroll-news 12s linear infinite;
-        width: 100%; /* Ensure list takes full container width */
-    }
+[2024/07] Shilong, Henry, Xinyue, and Runze won the first prize at TBSI RETREAT 2024, receiving a prize of **¥30,000** for their project **Robocare**!
 
-    .news-item {
-        padding: 10px;
-        font-size: 16px;
-        line-height: 1.5;
-        background: #fff;
-        border-bottom: 1px solid #ddd;
-    }
+[2024/06] The SSR Group 2021 Graduation Party was held in Shenzhen!
 
-    .news-item:last-child {
-        border-bottom: none;
-    }
+[2024/05] Shilong attended ICRA 2025 in Yokohama, Japan!
 
-    /* Scrolling animation */
-    @keyframes scroll-news {
-        0% {
-            transform: translateY(0);
-        }
-        100% {
-            transform: translateY(-200%); /* Adjust for seamless looping */
-        }
-    }
+[2024/04] Shilong received the third prize at the National Outstanding Graduate Students Workshop, hosted by The Chinese University of Hong Kong, Shenzhen!
 
-    .news-list:hover {
-        animation-play-state: paused; /* Pause on hover */
-    }
-</style>
+[2024/04] Shilong participated in the first China Humanoid Robot Industry Conference held in Beijing!
+
+[2024/03] Shilong’s ICRA 2024 RAS Travel Support Application was accepted!
+
+[2024/01] SSR Group had four papers accepted by ICRA 2024. Congratulations to Shilong, Xiaosa, Ziwu, and Chenchang! The research covers tactile duplexing, tactile reconstruction, multi-modal visual-tactile sensing, and flexible operations!
+
+[2024/01] Our work on bidirectional human-robot interaction e-skin was accepted by ICRA 2024 in Yokohama, Japan.
+
+[2024/01] SSR Group held the 2023 Annual Summary Meeting and conducted academic exchanges with the laboratory of [Professor Zhong Junwen](https://scholar.google.com/citations?user=AYU2uIoAAAAJ&hl=en) at the University of Macau, in Macau, China.
+
+[2023/10] Shilong received an internship offer from [Tencent Robotics X](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw) lab and will continue his research on robot tactile sensing!
+
+[2023/10] Shilong received the Tsinghua University second-class scholarship!
+
+[2023/10] Shilong participated in the 8th "Fundamental Theories and Key Technologies of Soft Robotics" Symposium in 2023.
+
+[2023/09] Shilong participated in the 2023 Guangdong Provincial Graduate Student Academic Forum and delivered an academic presentation.
+
+[2023/09] Our work on hybrid embedded systems for continuous monitoring of bird flight was accepted by UbiComp 2023, Session: CPD.
+
+[2023/08] Our work on a platypus-inspired electro-mechanosensory finger for remote control and tactile sensing was accepted by Nano Energy (IF: 19.06).
+
+[2023/01] SSR Group held the 2022 Annual Summary Meeting in Shenzhen, China!
 
 
 
@@ -230,7 +192,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-# 🎖 Honors and Awards
+# 🥇 Honors and Awards
 - **National Scholarship** (Top 2%), China University of Mining and Technology (October 2021)  
 - **National Scholarship** (Top 2%), Tsinghua University (October 2024)  
 - First Prize at the TBSI Retreat, Tsinghua-Berkeley Shenzhen Institute (Team Leader, Ranked 1/18) (July 2024)  
