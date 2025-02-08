@@ -42,6 +42,16 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 <span class='anchor' id='-News'></span>
 # 🔥 News
 
+[2025/01] Shilong was invited to attend the MNNLP Academic Symposium and delivered an academic report on "Exploring Optoelectronic Integrated Tactile Sensors in Embodied Intelligence."
+
+[2025/01] SSR Group held the 2024 Annual Summary Meeting in Shenzhen, China, and celebrated the lab's fifth anniversary. Looking forward to the next five years!
+
+[2025/01] Shilong attended CES 2025 in Las Vegas, USA.
+
+[2024/12] Shilong won the first prize in the[Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/A3mGZ6zK6WOZpPU8ks-Qsw), with a prize of 50,000 RMB. Congratulations!
+
+[2024/11] Shilong completed his internship at Xingji Guangnian  (星际光年) in Shenzhen.
+
 [2024/10] Shilong was awarded the **National Scholarship** for graduate students at Tsinghua University!
 
 [2024/08] Our work, “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation,” has been accepted by MobiCom PICASSO 2024.
