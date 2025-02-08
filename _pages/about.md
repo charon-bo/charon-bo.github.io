@@ -212,13 +212,13 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 - First Prize at the TBSI Retreat, Tsinghua-Berkeley Shenzhen Institute (Team Leader, Ranked 1/18) (July 2024)  
 - Outstanding Presentation Award, National Graduate Academic Symposium (CUHKSZ) (June 2024)  
 - IEEE Travel Grant 2024 (May 2024)  
-first prize in the [Low-altitude Economic Intelligent Flight Management Challenge
+
 # 💻 Internships
-Tencent Technology (Shenzhen) Co., Ltd. 
+-Tencent Technology (Shenzhen) Co., Ltd. 
 Robotics X Lab (High-Density Electronic Skin Development)  
 *October 2023 – March 2024*
 
-Xingji Guangnian  (Shenzhen)  Co., Ltd. 
+-Xingji Guangnian  (Shenzhen)  Co., Ltd. 
 Design of Tendon-Driven Dexterous Hand 
 *August  2024 – October 2024*
 
