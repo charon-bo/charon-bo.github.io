@@ -48,7 +48,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 [2025/01] Shilong attended CES 2025 in Las Vegas, USA.
 
-[2024/12] Shilong won the first prize in the [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA), with a prize of 50,000 RMB. Congratulations!
+[2024/12] Shilong won the first prize in the [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA), with a prize of 50,000 RMB. Congratulations! He also delivered a presentation at the Meituan Robotics Research Institute Annual Conference.
 
 [2024/11] Shilong completed his internship at Xingji Guangnian  (星际光年) in Shenzhen.
 
@@ -207,15 +207,20 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 # 🥇 Honors and Awards
 - **National Scholarship** (Top 2%), China University of Mining and Technology (October 2021)  
-- **National Scholarship** (Top 2%), Tsinghua University (October 2024)  
+- **National Scholarship** (Top 2%), Tsinghua University (October 2024)
+- First Prize at the Low-altitude Economic Intelligent Flight Management Challenge, Meituan (Team Leader) (December 2024)  
 - First Prize at the TBSI Retreat, Tsinghua-Berkeley Shenzhen Institute (Team Leader, Ranked 1/18) (July 2024)  
 - Outstanding Presentation Award, National Graduate Academic Symposium (CUHKSZ) (June 2024)  
 - IEEE Travel Grant 2024 (May 2024)  
-
+first prize in the [Low-altitude Economic Intelligent Flight Management Challenge
 # 💻 Internships
 Tencent Technology (Shenzhen) Co., Ltd. 
 Robotics X Lab (High-Density Electronic Skin Development)  
 *October 2023 – March 2024*
+
+Xingji Guangnian  (Shenzhen)  Co., Ltd. 
+Design of Tendon-Driven Dexterous Hand 
+*August  2024 – October 2024*
 
 <span class='anchor' id='-Pics'></span>
 
