@@ -32,7 +32,7 @@ During his studies, Shilong received **national scholarships** for both graduate
 # 📝 Research Interests
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
 - **Tactile sensing**
-- **Human-machine interfaces**
+- **Dexterous manipulation****
 - **Embodied AI**
 
 Feel free to reach out for collaboration or discussions about research ideas.
@@ -41,6 +41,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 <span class='anchor' id='-News'></span>
 # 🔥 News
+[2025/03] As the first author and corresponding author, Shilong has three papers submitted to IROS 2025, covering: Exo-ViHa (data acquisition), AVR (active vision), VET (bidirectional tactile).
 
 [2025/01] Shilong was invited to attend the MNNLP Academic Symposium and delivered an academic report on **"Exploring Optoelectronic Integrated Tactile Sensors in Embodied Intelligence."**
 
