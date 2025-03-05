@@ -32,7 +32,7 @@ During his studies, Shilong received **national scholarships** for both graduate
 # 📝 Research Interests
 Shilong Mu's academic and research endeavors are centered around the cutting-edge domains of:
 - **Tactile sensing**
-- **Dexterous manipulation****
+- **Dexterous manipulation**
 - **Embodied AI**
 
 Feel free to reach out for collaboration or discussions about research ideas.
