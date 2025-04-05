@@ -109,8 +109,8 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
   <li>AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization</li>
-  <li><strong>Yushan Liu*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2024</li>
+  <li>Yushan Liu*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2025</li>
   <li><a href="https://arxiv.org/abs/2503.01439">Link</a> | <a href="https://arxiv.org/pdf/2503.01439">PDF</a></li>
 
     </ul>
@@ -128,8 +128,8 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
      <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
-  <li><strong>Xintao Chao*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2024</li>
+  <li>Xintao Chao*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2025</li>
   <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a></li>
     </ul>
   </div>
@@ -146,8 +146,8 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction</li>
-  <li><strong>Cong Zhang*<sup>1</sup></strong>, <strong>Yisheng Yang*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2024</li>
+  <li>Cong Zhang*<sup>1</sup>, Yisheng Yang*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2025</li>
   <li><a href="https://arxiv.org/abs/2503.23440">Link</a> | <a href="https://arxiv.org/pdf/2503.23440">PDF</a></li>
     </ul>
   </div>
