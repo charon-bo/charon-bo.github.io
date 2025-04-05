@@ -98,7 +98,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 # 📝 Publications
 
-<!-- Publication 1: AVR 2025 -->
+<!-- Publication 9: AVR 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -117,12 +117,12 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 1: Exo-ViHa 2025 -->
+<!-- Publication 8: Exo-ViHa 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">exo-viha 2025</div>
-      <img src='images/HandySense.png' alt="sym" width="100%">
+      <img src='images/exo-viha.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -135,7 +135,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 1: VET 2025 -->
+<!-- Publication 7: VET 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -153,7 +153,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 1: MobiCom Picasso 2024 -->
+<!-- Publication 6: MobiCom Picasso 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -171,7 +171,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 2: ICRA 2024 -->
+<!-- Publication 5: ICRA 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -189,7 +189,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 3: Nano-Energy 2023 -->
+<!-- Publication 4: Nano-Energy 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -208,7 +208,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 </div>
 
 
-<!-- Publication 4: ICRA 2024 -->
+<!-- Publication 3: ICRA 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -226,7 +226,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 5: IEEE Sensors Journal 2024 -->
+<!-- Publication 2: IEEE Sensors Journal 2024 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
@@ -244,7 +244,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 6: UbiComp 2023 -->
+<!-- Publication 1: UbiComp 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
