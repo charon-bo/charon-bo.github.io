@@ -127,7 +127,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
-      <li>Xintao Chao*< <strong>Shilong Mu*†</strong>, Yushan Liu, Shoujie Li, Chuqiao Lyu†, Xiao-Ping Zhang, Wenbo Ding†.</li>
+      <li>Xintao Chao*, <strong>Shilong Mu*†</strong>, Yushan Liu, Shoujie Li, Chuqiao Lyu†, Xiao-Ping Zhang, Wenbo Ding†.</li>
       <li><i>arXiv preprint</i> 2025</li>
       <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a> | <a href="https://exo-viha2025.github.io/" target="_blank">Project page</a></li>
     </ul>
