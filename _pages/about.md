@@ -109,7 +109,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization</li>
-      <li>Yushan Liu*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li>Yushan Liu*, <strong>Shilong Mu*†</strong>, Xintao Chao, Zizhen Li, Yao Mu, Tianxing Chen, Shoujie Li, Chuqiao Lyu†, Xiao-Ping Zhang, Wenbo Ding†.</li>
       <li><i>arXiv preprint</i> 2025</li>
       <li><a href="https://arxiv.org/abs/2503.01439">Link</a> | <a href="https://arxiv.org/pdf/2503.01439">PDF</a> | <a href="https://avr-robot.github.io/" target="_blank">Project page</a></li>
     </ul>
@@ -127,7 +127,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
-      <li>Xintao Chao*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li>Xintao Chao*< <strong>Shilong Mu*†</strong>, Yushan Liu, Shoujie Li, Chuqiao Lyu†, Xiao-Ping Zhang, Wenbo Ding†.</li>
       <li><i>arXiv preprint</i> 2025</li>
       <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a> | <a href="https://exo-viha2025.github.io/" target="_blank">Project page</a></li>
     </ul>
@@ -145,7 +145,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-text'>
     <ul>
       <li>VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction</li>
-      <li>Cong Zhang*<sup>1</sup>, Yisheng Yang*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li>Cong Zhang*, Yisheng Yang*, <strong>Shilong Mu*†</strong>, Chuqiao Lyu, Shoujie Li, Xinyue Chai, Wenbo Ding†.</li>
       <li><i>arXiv preprint</i> 2025</li>
       <li><a href="https://arxiv.org/abs/2503.23440">Link</a> | <a href="https://arxiv.org/pdf/2503.23440">PDF</a></li>
     </ul>
@@ -165,7 +165,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
       <li>HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation</li>
       <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
       <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
-      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://dl.acm.org/doi/10.1145/3636534.3694728">Link</a> | <a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
