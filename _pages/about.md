@@ -103,16 +103,15 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   <div class='paper-box-image'>
     <div>
       <div class="badge">AVR 2025</div>
-      <img src='images/avr.png' alt="sym" width="100%">
+      <img src='images/avr.png' alt="AVR system" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <ul>
-  <li>AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization</li>
-  <li>Yushan Liu*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2025</li>
-  <li><a href="https://arxiv.org/abs/2503.01439">Link</a> | <a href="https://arxiv.org/pdf/2503.01439">PDF</a>| <a href="https://avr-robot.github.io/" target="_blank">Project page</a></li>
-
+      <li>AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization</li>
+      <li>Yushan Liu*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li><i>arXiv preprint</i> 2025</li>
+      <li><a href="https://arxiv.org/abs/2503.01439">Link</a> | <a href="https://arxiv.org/pdf/2503.01439">PDF</a> | <a href="https://avr-robot.github.io/" target="_blank">Project page</a></li>
     </ul>
   </div>
 </div>
@@ -121,16 +120,16 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">exo-viha 2025</div>
-      <img src='images/exo-viha.png' alt="sym" width="100%">
+      <div class="badge">Exo-ViHa 2025</div>
+      <img src='images/exo-viha.png' alt="Exoskeleton system" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <ul>
-     <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
-  <li>Xintao Chao*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2025</li>
-  <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a>| <a href="https://exo-viha2025.github.io/" target="_blank">Project page</a></li>
+      <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
+      <li>Xintao Chao*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li><i>arXiv preprint</i> 2025</li>
+      <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a> | <a href="https://exo-viha2025.github.io/" target="_blank">Project page</a></li>
     </ul>
   </div>
 </div>
@@ -139,16 +138,16 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">VET 2025/div>
-      <img src='images/vet.png' alt="sym" width="100%">
+      <div class="badge">VET 2025</div>
+      <img src='images/vet.png' alt="VET system" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <ul>
       <li>VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction</li>
-  <li>Cong Zhang*<sup>1</sup>, Yisheng Yang*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
-  <li><i>arXiv preprint</i> 2025</li>
-  <li><a href="https://arxiv.org/abs/2503.23440">Link</a> | <a href="https://arxiv.org/pdf/2503.23440">PDF</a></li>
+      <li>Cong Zhang*<sup>1</sup>, Yisheng Yang*<sup>1</sup>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+      <li><i>arXiv preprint</i> 2025</li>
+      <li><a href="https://arxiv.org/abs/2503.23440">Link</a> | <a href="https://arxiv.org/pdf/2503.23440">PDF</a></li>
     </ul>
   </div>
 </div>
@@ -208,12 +207,12 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 </div>
 
 
-<!-- Publication 3: ICRA 2024 -->
+<!-- Publication 3: ICRA 2024 SATac -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICRA 2024</div>
-      <img src='images/SATac.png' alt="sym" width="100%">
+      <img src='images/SATac.png' alt="SATac sensor" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
@@ -221,7 +220,7 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
       <li>SATac: A Thermoluminescence Enabled Tactile Sensor for Concurrent Perception of Temperature, Pressure, and Shear</li>
       <li>Ziwu Song*, Ran Yu*, Xuan Zhang, Kit Wa Sou, <strong>Shilong Mu</strong>, Wenbo Ding†.</li>
       <li><i>ICRA</i> 2024, Yokohama, Japan</li>
-      <li><a href="[https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
+      <li><a href="https://arxiv.org/abs/2403.09855">Link</a> | <a href="/assets/PDF/SATac-ICRA2024.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
