@@ -98,20 +98,75 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 # 📝 Publications
 
-<!-- Publication 1: Nano-Energy 2023 -->
+<!-- Publication 1: AVR 2025 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">Nano-Energy 2023</div>
-      <img src='images/EM_FINGER.png' alt="sym" width="100%">
+      <div class="badge">AVR 2025</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <ul>
-      <li>A Platypus-inspired Electro-mechanosensory Finger for Remote Control and Tactile Sensing</li>
-      <li><strong>Shilong Mu*</strong>, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.</li>
-      <li><i>Nano Energy</i>, 2023, 116: 108790. (JCR:Q1; IF:17.6)</li>
-      <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
+  <li>AVR: Active Vision-Driven Robotic Precision Manipulation with Viewpoint and Focal Length Optimization</li>
+  <li><strong>Yushan Liu*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Xintao Chao<sup>1</sup>, Zizhen Li<sup>2</sup>, Yao Mu<sup>3</sup>, Tianxing Chen<sup>4</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2024</li>
+  <li><a href="https://arxiv.org/abs/2503.01439">Link</a> | <a href="https://arxiv.org/pdf/2503.01439">PDF</a></li>
+
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 1: Exo-ViHa 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">Exo-ViHa 2025</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+     <li>Exo-ViHa: A Cross-Platform Exoskeleton System with Visual and Haptic Feedback for Efficient Dexterous Skill Learning</li>
+  <li><strong>Xintao Chao*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Yushan Liu<sup>1</sup>, Shoujie Li<sup>1</sup>, Chuqiao Lyu†<sup>1</sup>, Xiao-Ping Zhang<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2024</li>
+  <li><a href="https://arxiv.org/abs/2503.01543">Link</a> | <a href="https://arxiv.org/pdf/2503.01543">PDF</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 1: VET 2025 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">VET 2025/div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>VET: A Visual-Electronic Tactile System for Immersive Human-Machine Interaction</li>
+  <li><strong>Cong Zhang*<sup>1</sup></strong>, <strong>Yisheng Yang*<sup>1</sup></strong>, <strong>Shilong Mu*†<sup>1</sup></strong>, Chuqiao Lyu<sup>1</sup>, Shoujie Li<sup>1</sup>, Xinyue Chai<sup>1</sup>, Wenbo Ding†<sup>1</sup>.</li>
+  <li><i>arXiv preprint</i> 2024</li>
+  <li><a href="https://arxiv.org/abs/2503.23440">Link</a> | <a href="https://arxiv.org/pdf/2503.23440">PDF</a></li>
+    </ul>
+  </div>
+</div>
+
+<!-- Publication 1: MobiCom Picasso 2024 -->
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">MobiCom Picasso 2024</div>
+      <img src='images/HandySense.png' alt="sym" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text'>
+    <ul>
+      <li>HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation</li>
+      <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
+      <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
+      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
@@ -134,23 +189,24 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
   </div>
 </div>
 
-<!-- Publication 3: MobiCom Picasso 2024 -->
+<!-- Publication 3: Nano-Energy 2023 -->
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">MobiCom Picasso 2024</div>
-      <img src='images/HandySense.png' alt="sym" width="100%">
+      <div class="badge">Nano-Energy 2023</div>
+      <img src='images/EM_FINGER.png' alt="sym" width="100%">
     </div>
   </div>
   <div class='paper-box-text'>
     <ul>
-      <li>HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation</li>
-      <li><strong>Shilong Mu*</strong>, Jingyang Wang*, Xinyue Chai, Xingting Li, Tong Wu, Wenbo Ding†.</li>
-      <li><i>MobiCom Picasso</i> 2024, Washington D.C., USA</li>
-      <li><a href="/assets/PDF/HandySense.pdf" target="_blank">PDF</a></li>
+      <li>A Platypus-inspired Electro-mechanosensory Finger for Remote Control and Tactile Sensing</li>
+      <li><strong>Shilong Mu*</strong>, Shoujie Li*, Hongfa Zhao*, Zihan Wang, Xiao Xiao, Zenan Lin, Ziwu Song, Huaze Tang, Qinghao Xu, Dongkai Wang, Wang Wei Lee†, Changsheng Wu†, Wenbo Ding†.</li>
+      <li><i>Nano Energy</i>, 2023, 116: 108790. (JCR:Q1; IF:17.6)</li>
+      <li><a href="https://www.sciencedirect.com/science/article/pii/S2211285523006274?via%3Dihub">Link</a> | <a href="/assets/PDF/NanoEnergy-EM-Finger.pdf" target="_blank">PDF</a></li>
     </ul>
   </div>
 </div>
+
 
 <!-- Publication 4: ICRA 2024 -->
 <div class='paper-box'>
