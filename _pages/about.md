@@ -51,8 +51,6 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 
 [2024/12] Shilong won the first prize in the [Low-altitude Economic Intelligent Flight Management Challenge](https://mp.weixin.qq.com/s/af1aCr-GrmgQDyoqyYVVeA), with a prize of 50,000 RMB. Congratulations! He also delivered a presentation at the Meituan Robotics Research Institute Annual Conference.
 
-[2024/11] Shilong completed his internship at Xingji Guangnian  (星际光年) in Shenzhen.
-
 [2024/10] Shilong was awarded the **National Graduate Scholarship** at Tsinghua University!
 
 [2024/08] Our work, “HandySense: A Multimodal Collection System for Human Two-Handed Dexterous Manipulation,” has been accepted by MobiCom PICASSO 2024.
@@ -274,10 +272,6 @@ Email: msl22 [AT] mails.tsinghua.edu.cn
 Robotics X Lab (High-Density Electronic Skin Development)  
 *October 2023 – March 2024*
 
--Xingji Guangnian  (Shenzhen)  Co., Ltd. 
-Design of Tendon-Driven Dexterous Hand 
-*August  2024 – October 2024*
-
 <span class='anchor' id='-Pics'></span>
 
 # 📸 Pics
@@ -334,4 +328,5 @@ Design of Tendon-Driven Dexterous Hand
 # 🗺️ Visit Map
 
 <a href="https://clustrmaps.com/site/1byil"><img src="https://clustrmaps.com/map_v2.png?cl=ffffff&w=800&t=m&d=X3J61-hp75joVFvuLSJlgpbB6riHUwJsEuuJ_A-gLmM&co=2d78ad&ct=ffffff" /></a>
+
 
