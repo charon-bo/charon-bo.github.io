@@ -25,7 +25,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Personal Profile
-Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robotic sensing and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
+Hi, I’m the founder and CEO of Xspark Ai. Shilong Mu received his B.S. degree in Electronic Information Engineering from [China University of Mining and Technology](https://www.cumt.edu.cn/) in 2022. He is currently pursuing his M.S. degree in Data Science and Information Technology at the Smart Sensing and Robotics group [(SSR Group)](https://ssr-group.net/index.html) at [Tsinghua University](https://www.tsinghua.edu.cn/en/). His research focuses on robotic sensing and embodied AI, under the guidance of [Professor Wenbo Ding](https://scholar.google.com/citations?user=xo2FkgIAAAAJ&hl=zh-CN) in the SSR Group.
 
 During his studies, Shilong received **national scholarships** for both graduate students (THU) and undergraduates (CUMT).
 
